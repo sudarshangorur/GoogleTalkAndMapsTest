@@ -1,7 +1,7 @@
 GoogleTalkAndMapsTest
 =====================
 
-Sample automated tests for GTalk and google maps
+Sample automated tests for GTalk and google maps.
 
 Tools used in project creation
 ==============================
